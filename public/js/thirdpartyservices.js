@@ -102,5 +102,15 @@ var thirdPartyServicesJsonArray = [
       privacy: 'https://privacy.oath.com',
       terms: 'https://developer.yahoo.com/flurry/legal-privacy/terms-service/flurry-analytics-terms-service.html'
     }
+  },
+  {
+    name: 'Unity Analytics',
+    model: 'unity',
+    unity: false,
+    logo: 'images/unity.png',
+    link: {
+      privacy: 'https://unity3d.com/legal/privacy-policy?_ga=2.106510467.1237342617.1558938035-908032017.1553068005',
+      terms: ''
+    }
   }
 ]
